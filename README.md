@@ -1,2 +1,2 @@
-# Sentiment-analysis-project
-positive, negative, or neutral
+# Sentimental-Analysis-Amazon-Review
+Sentimental analysis Textblob lib and Vader
